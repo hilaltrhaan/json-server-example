@@ -20,22 +20,20 @@
   "todos":[
 {
 
- 
-  "todoTitle": "delectus aut autem",
-  "todoContent": false,
-  "todoUserId": 1
+ "id":"1",
+  "content": "delectus aut autem",
+  "userId": 1
+},
+{
+ "id": "2",
+  "content": "quis ut nam facilis et officia qui",
+  "userId": 2
 },
 {
  
-  "todoTitle": "quis ut nam facilis et officia qui",
-  "todoContent": false,
-  "todoUserId": 1
-},
-{
- 
-  "id": 3,  "todoTitle": "fugiat veniam minus",
-  "todoContent": false,
-  "todoUserId": 1
+  "id": 3, 
+   "content": "fugiat veniam minus",
+  "userId": 2
 }
 
   ],
