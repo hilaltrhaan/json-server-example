@@ -17,6 +17,27 @@
       "best_frontend_framework": "React"
     }
   ],
+  "todos":[
+{
+  "todoId": 1,
+  "id": 1,
+  "todoTitle": "delectus aut autem",
+  "todoContent": false
+},
+{
+  "todoId": 1,
+  "id": 2,
+  "todoTitle": "quis ut nam facilis et officia qui",
+  "todoContent": false
+},
+{
+  "todoId": 1,
+  "id": 3,
+  "todoTitle": "fugiat veniam minus",
+  "todoContent": false
+}
+
+  ],
   "polls": [
     {
       "question": "Favourite Music Genre?",
