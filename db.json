@@ -29,54 +29,6 @@
       "title": "Bookmark in note",
       "content": "Show rich link UI in a note, and feature to render website screenshot. ",
       "userId": 5
-    },
-    {
-      "id": "6",
-      "title": "Image viewer",
-      "content": "Opens when clicking on the thumbnail in the list or on the image in the note",
-      "userId": 6
-    },
-    {
-      "id": "7",
-      "title": "Mobile view",
-      "content": "Functions for both web responsive and native apps. Note: Android and iOS will need unique share icons.",
-      "userId": 7
-    },
-    {
-      "id":" 8",
-      "title": "Desktop view",
-      "content": "PWA for website and native apps. Note: Windows and Mac will need unique share icons. ",
-      "userId": 8
-    },
-    {
-      "id": "9",
-      "title": "Formatting options",
-      "content": "Mobile formatting bar expands and collapses when tapping the format icon.",
-      "userId": 9
-    },
-    {
-      "id": "10",
-      "title": "Media in note",
-      "content": "Image & video with player UI ",
-      "userId": 10
-    },
-    {
-      "id": "11",
-      "title": "Audio recording",
-      "content": "Interface for when recording a new audio note ",
-      "userId": 11
-    },
-    {
-      "id": "12",
-      "title": "Bookmarking",
-      "content": "Interface for when creating a new link note.",
-      "userId": 12
-    },
-    {
-      "id": "13",
-      "title": "Mobile home screen",
-      "content": "Folders, tags, and notes lists are sorted by recent. ",
-      "userId": 13
     }
   ]
 }
