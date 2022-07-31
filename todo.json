@@ -1,31 +1,31 @@
 {
   "todos": [
   {
-    "id": 6,
+    "id": "6",
     "title": "Image viewer",
     "content": "Opens when clicking on the thumbnail in the list or on the image in the note",
     "userId": 6
   },
   {
-    "id": 7,
+    "id": "7",
     "title": "Mobile view",
     "content": "Functions for both web responsive and native apps. Note: Android and iOS will need unique share icons.",
     "userId": 7
   },
   {
-    "id": 8,
+    "id": "8",
     "title": "Desktop view",
     "content": "PWA for website and native apps. Note: Windows and Mac will need unique share icons. ",
     "userId": 8
   },
   {
-    "id": 9,
+    "id": "9",
     "title": "Formatting options",
     "content": "Mobile formatting bar expands and collapses when tapping the format icon.",
     "userId": 9
   },
   {
-    "id": 10,
+    "id": "10",
     "title": "Media in note",
     "content": "Image & video with player UI ",
     "userId": 10
